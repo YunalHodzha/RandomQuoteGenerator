@@ -1,5 +1,6 @@
 html, body{
     background: #abe2e2 !important;
+    overflow: hidden;
 }
 
 .container {
@@ -24,6 +25,10 @@ html, body{
 
 .quotes p, .quotes h3 {
     font-size: 1.5rem;
+}
+
+.button {
+    margin-top: -10%;
 }
 
 @media(max-width:480px) {
